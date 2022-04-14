@@ -9,7 +9,7 @@
 		<version>2.6.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ouni</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>produits</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>produits</name>
